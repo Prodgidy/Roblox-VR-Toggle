@@ -1,0 +1,12 @@
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\bin\Debug\rblx_ToggleVR.exe.config
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\bin\Debug\rblx_ToggleVR.exe
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\bin\Debug\rblx_ToggleVR.pdb
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\bin\Debug\rblx_ToggleVR.xml
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.vbproj.AssemblyReference.cache
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.Resources.resources
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.vbproj.GenerateResource.cache
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.vbproj.CoreCompileInputs.cache
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.exe
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.xml
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.pdb
+C:\Users\Funym\source\repos\rblx_ToggleVR\rblx_ToggleVR\obj\Debug\rblx_ToggleVR.vrToggler.resources
